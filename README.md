@@ -41,18 +41,14 @@ interests:
   blog: 记录技术思考与探索
 
 favorite_games:
-  - 仙剑奇侠传四      # 3,979 hrs
-  - OneShot            # "再见 Niko"
-  - 最终幻想系列        # including FFXIV
-  - Persona 5 Royal
+  - 仙剑奇侠传四
+  - OneShot
+  - 最终幻想系列
+  - Persona 系列
   - 杀戮尖塔
   - 黑暗之魂
   - 赛尔达传说
   - 异度之刃
-
-fun_facts:
-  - 用 Python 算过博德之门3的伤害公式
-  - 搭了自动追番系统 Auto Bangumi
 ```
 
 <br>
